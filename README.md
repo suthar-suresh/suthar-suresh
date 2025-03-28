@@ -22,7 +22,7 @@ I'm a **Full-Stack Developer** and **MERN Specialist** with a passion for delive
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=suthar-suresh&color=dc143c)
 
         
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCMquZsMwF42qAgLw_LgHOyvqjAPcU6YWR2gvBSI26AVVpxSiHxe6puc6irxIz-WNwDRt5HlvfUA7ejJDnFh4NxE7Uq2zxlcU9rjEfjn0SIkHucJt38hqWkvwYbe7SM244ItFza000g4JCYhsgiATIkowmTTuIReFRJbw5GZwi72N4vZU0r11une7z/s1600/ezgif.com-gif-maker.gif" width="300px" alt="Lavkush Maurya GIF Animation"/>
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="450px" alt="Suresh Suthar GIF Animation"/>
 
 </div>
 
